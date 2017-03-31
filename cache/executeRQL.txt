@@ -1,0 +1,5 @@
+<IODATA loginguid="[!guid_login!]" sessionkey="[!key!]">
+  <ADMINISTRATION>
+    <EDITORIALSERVER action="check" guid="[!guid_editorialserver!]"/>
+  </ADMINISTRATION>
+</IODATA>
